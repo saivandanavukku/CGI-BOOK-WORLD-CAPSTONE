@@ -1,0 +1,20 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\book-app-master",
+    "\\book-app-master\\AngularApp",
+    "\\book-app-master\\AngularApp\\src",
+    "\\book-app-master\\AngularApp\\src\\app",
+    "\\book-app-master\\AngularApp\\src\\app\\Components",
+    "\\book-app-master\\AngularApp\\src\\app\\Components\\header",
+    "\\book-app-master\\AuthenticationService",
+    "\\book-app-master\\AuthenticationService\\AuthenticationService",
+    "\\book-app-master\\AuthenticationService\\AuthenticationService\\BusinessLayer",
+    "\\book-app-master\\AuthenticationService\\AuthenticationService\\Controllers",
+    "\\book-app-master\\AuthenticationService\\AuthenticationService\\CustomException",
+    "\\book-app-master\\favouriteAPI",
+    "\\book-app-master\\RecommendationAPI"
+  ],
+  "SelectedNode": "\\book-app-master\\AngularApp\\src\\app\\app.component.ts",
+  "PreviewInSolutionExplorer": false
+}
